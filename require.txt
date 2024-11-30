@@ -1,0 +1,15 @@
+streamlit
+google-generativeai
+python-dotenv
+psycopg2
+pymysql
+pyodbc
+mariadb
+snowflake-connector-python
+google-cloud-bigquery
+ibm-db
+pyhive[hive]
+pyspark
+redshift_connector
+cx_Oracle
+clickhouse-connect
